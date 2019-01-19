@@ -27,7 +27,7 @@ namespace C0732134
 
             }
             Console.WriteLine("\n\nName : "+ ds.name);
-            Console.WriteLine("\n\nName : " + ds.gpa);
+            Console.WriteLine("\n\nName : " + ds.gpa); 
             Console.WriteLine("\n\nName : " + ds.grade);
         }
     }
