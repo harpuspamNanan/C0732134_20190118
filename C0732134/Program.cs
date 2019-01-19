@@ -2,7 +2,7 @@
 
 namespace C0732134
 {
-    class Program
+    class C0732134
     {
         static void Main(string[] args)
         {
@@ -22,10 +22,8 @@ namespace C0732134
                     cond = false;
             }
 
-            for (int i = 0; i <  ; i++)
-            {
-
-            }
+            //for (int i = 0; i <  ; i++)
+            
             Console.WriteLine("\n\nName : "+ ds.name);
             Console.WriteLine("\n\nName : " + ds.gpa); 
             Console.WriteLine("\n\nName : " + ds.grade);
