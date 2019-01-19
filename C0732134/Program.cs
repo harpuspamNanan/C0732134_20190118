@@ -6,7 +6,9 @@ namespace C0732134
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int num = 5;
+            int sum = num + 5;
+            Console.WriteLine(" "+sum);
         }
     }
 }
